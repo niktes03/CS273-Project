@@ -1,0 +1,3 @@
+Model,MAE (°C),RMSE (°C),MAPE (%)
+Persistence,3.1129,4.2071,119.54
+LSTM Baseline,1.8,2.3447,83.18
